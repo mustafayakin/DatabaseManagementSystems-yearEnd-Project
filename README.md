@@ -1,3 +1,2 @@
 # VTYS
-vtys projesi 
-Veri Tabanı Yönetim Sistemleri Dersi İçin yapmış olduğum restoran uygulaması. 
+Veri Tabanı Yönetim Sistemleri Dersi İçin C# Form İle Tasarladığım Restoran Application'u
