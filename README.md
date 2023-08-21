@@ -1,2 +1,2 @@
-# VTYS
-Veri Tabanı Yönetim Sistemleri Dersi İçin C# Form İle Tasarladığım Restoran Application'u
+# Database Management Systems
+Veri Tabanı Yönetim Sistemleri Dersi için hazırlamış olduğum masaüstü programı. `C# Visual Basic` kullanılarak oluşturulmuştur. Sql tarafında `postgreSQL` kullanıldı. 
